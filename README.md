@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Majid-Ali01/Majid-Ali01/main/Majid%20Profile%20View.png" height="350">
+    <img src="https://raw.githubusercontent.com/Majid-Ali01/Majid-Ali01/main/Majid_Profile_Updated.png" height="350">
 </p>
 
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
