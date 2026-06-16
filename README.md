@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Majid-Ali01/Majid-Ali01/main/Majid%20Profile%20View.png" width="90%">
+  <img src="https://raw.githubusercontent.com/Majid-Ali01/Majid-Ali01/main/Majid%20Profile%20View.png" height="350">
 </p>
 
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Computer Science Student | 🤖 AI Ambassador | 💻 Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Java+Developer;C%2B%2B+Programmer;SQL+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=AI+Enthusiast;Java+Developer;C%2B%2B+Programmer;SQL+Learner" />
 </p>
 
 ---
